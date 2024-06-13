@@ -4,7 +4,6 @@ The most comprehensive professionally curated list of Awesome Conformal Predicti
 
 Please star 🌟 the repo and spread the word. If you use repository please kindly cite Awesome Conformal Prediciton using 'Cite this repository' button on the right. 
 
-Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-14l4ukmpv-7SXXqsx93wS2~d7c7pJn8Q
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
@@ -22,9 +21,9 @@ https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quanti
 When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Conformal_prediction_growth](https://github.com/valeman/awesome-conformal-prediction/blob/main/Conformal%20prediction%20growth.png) 
+![Conformal_prediction_growth](https://github.com/dolittle007/Awesome-Conformal-Prediction/Conformal%20prediction%20growth.png) 
 
-In 2022 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry.
+In 2022 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
 
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
@@ -35,7 +34,7 @@ Featured resources:
 
 [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)
 
-This is newest version of the super-popular tutorial on Conformal Prediction (over 3,500 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
+This is the newest version of the super-popular tutorial on Conformal Prediction (over 3,500 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
 
 [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 
