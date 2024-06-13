@@ -21,7 +21,7 @@ https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quanti
 When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Conformal_prediction_growth](https://github.com/dolittle007/Awesome-Conformal-Prediction/Conformal%20prediction%20growth.png) 
+![Conformal_prediction_growth](https://github.com/dolittle007/Awesome-Conformal-Prediction/blob/main/Conformal%20prediction%20growth.png) 
 
 In 2022 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
 
